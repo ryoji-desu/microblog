@@ -1,0 +1,14 @@
+/* input[type="text"]{
+    width: 400px;
+}
+input[type="password"]{
+    width: 400px;
+    margin-left: 2px;
+}
+input[type="email"]{
+    width: 400px;
+} */
+.cover {
+    background: url(/../../../microblog/microblog1/webroot/img/bg.png);
+    background-size: cover;
+}
